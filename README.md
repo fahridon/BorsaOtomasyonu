@@ -1,0 +1,2 @@
+# BorsaOtomasyonu
+GitHub test demo
